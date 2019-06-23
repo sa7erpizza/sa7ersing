@@ -3,4 +3,4 @@ prefix=$
 game=2.B MUSIC | $help
 stayinchannel=true
 songinstatus=false
-token=NTkyMDI2Mzg1NTQ4MDUwNDMy.XQ7ICw.GhtZfhYwOLecaXy52x0ZDyrrW-U
+token=NTkyMjk0MzU5MTEwNzc4ODgw.XQ_2GA._F3KggENL_6m6hEPZX6-NNKC6v8
