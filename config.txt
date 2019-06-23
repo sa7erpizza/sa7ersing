@@ -2,5 +2,5 @@ owner=436868598300934146
 prefix=$
 game=2.B MUSIC | $help
 stayinchannel=true
-songinstatus=false
+songinstatus=$play playlist
 token=NTkyMDI2Mzg1NTQ4MDUwNDMy.XQ7ICw.GhtZfhYwOLecaXy52x0ZDyrrW-U
