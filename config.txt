@@ -1,6 +1,6 @@
 owner=436868598300934146
 prefix=$
-game=2.B MUSIC | Prefix :$
+game=2.B MUSIC | $help
 stayinchannel=true
 songinstatus=false
 token=NTkyMDI2Mzg1NTQ4MDUwNDMy.XQ7ICw.GhtZfhYwOLecaXy52x0ZDyrrW-U
